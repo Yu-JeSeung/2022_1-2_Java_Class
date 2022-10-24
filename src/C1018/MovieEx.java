@@ -9,7 +9,7 @@ public class MovieEx {
         aven.date=2021;
 
         Movie house = new Movie();
-        house.name="집으로";
+        house.name="괴물";
         house.date=2001;
         house.score=99;
         house.editor="봉준호";
