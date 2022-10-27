@@ -3,7 +3,7 @@ package C1025;
 public class DogEx {
     public static void main(String[] args) {
 
-        Dog ssong=new Dog("숑이",6,"푸들","실버");
+        Dog ssong=new Dog("숑이",3,"푸들","실버");
         Dog marin = new Dog();
         marin.age = 8;
         marin.breed = "비숑프리제";
