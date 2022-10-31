@@ -18,7 +18,7 @@ public class Ex3_11 {
                 intArray[i][j]=(i+1)*10+j;
             }
         }
-
+         // 출력
         for(int i=0;i< intArray.length;i++)
         {
             for(int j=0;j<intArray[i].length;j++)
